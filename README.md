@@ -1,6 +1,6 @@
-# My HTML Website
+# Portfolio Page
 
-A simple HTML website project.
+Marc Paul Eldrin B. Oamil
 
 ## Installation
 
